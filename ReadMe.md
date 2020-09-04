@@ -10,7 +10,9 @@ git push // augsupielade izmainas remote
 // work-flow
 git add . 
 git commit -m "Zina, kas ir  sakariga un apraksta commit butibu"
-git push
+git push // publice darbu github
+
+git pull // izrauj pedejo zinamo versiju no remote
 
 git clone https://...../repo // nokope repizotoriju lokali
 
