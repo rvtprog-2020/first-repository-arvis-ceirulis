@@ -15,6 +15,8 @@ git add .
 git commit -m "Zina, kas ir  sakariga un apraksta commit butibu"
 git push
 
+git clone https://...../repo // nokope repizotoriju lokali
+
 git status // parbauda repozitorija stavokli
 git diff // parada izmainas kops pedeja commit
 ```
