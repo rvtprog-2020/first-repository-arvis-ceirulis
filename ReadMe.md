@@ -1,6 +1,8 @@
 # My first depo - Arvis Ceirulis
 ## sis ir tests
-### ok
+### Arvis Ceirulis
+
+```
 // Darba sakums ar repozitoriju  
 git init // izveido repozitoriju  
 git add . // sagatvo visu prieks commit/ stage'o failus un izmainas             
@@ -15,3 +17,4 @@ git push
 
 git status // parbauda repozitorija stavokli
 git diff // parada izmainas kops pedeja commit
+```
