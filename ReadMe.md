@@ -1,7 +1,4 @@
-# My first depo - Arvis Ceirulis
-## sis ir tests
-### Arvis Ceirulis
-
+# Šīs ir noderīgas komandas!
 ```
 // Darba sakums ar repozitoriju  
 git init // izveido repozitoriju  
